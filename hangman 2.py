@@ -1,5 +1,5 @@
 
-secretWord = "Indonesia"
+secretWord = "AnakSoftware"
 guessed_letters = []
 chances = 6
 
